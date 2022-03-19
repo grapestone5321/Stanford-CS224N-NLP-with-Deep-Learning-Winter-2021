@@ -7,7 +7,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 CS224N: Natural Language Processing with Deep Learning | Winter 2021
 
 
-
 For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: 
 
 https://learn.stanford.edu/Social-AI-YouTube.html?utm_medium=social&utm_term&utm_campaign=AI&utm_source=youtube
